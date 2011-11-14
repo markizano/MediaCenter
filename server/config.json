@@ -1,0 +1,7 @@
+{
+    "BINDING_ADDRESS": "0.0.0.0",
+    "BINDING_PORT": 32768,
+    "MEDIA_DIRECTORY": "/home/Media/Music",
+    "MEDIA_FILTER_PATTERN": ["*.mp3", "*.mp4", "*.flac", "*.m4a", "*.m4p", "*.wav", "*.wma"]
+}
+
